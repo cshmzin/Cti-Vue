@@ -1,4 +1,4 @@
-# cti_kg_vue
+# cti_vue
 
 ## Project setup
 ```
